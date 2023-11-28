@@ -25,6 +25,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] add jump offset to player cam
 
 
 ## Completed
