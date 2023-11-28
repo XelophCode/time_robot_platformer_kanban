@@ -27,11 +27,11 @@ kanban-plugin: basic
 
 - [ ] improve pc jump
 - [ ] improve fall
-- [ ] fixing WASD input
 
 
 ## Completed
 
+- [ ] fixing WASD input
 
 
 
