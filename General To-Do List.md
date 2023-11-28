@@ -15,7 +15,6 @@ kanban-plugin: basic
 ## Need To Do
 
 - [ ] add dive action
-- [ ] add wall jump
 - [ ] add pc side flip
 - [ ] add pc long jump
 - [ ] add pc interact
@@ -26,6 +25,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] add jump offset to player cam
+- [ ] add wall jump
 
 
 ## Completed
