@@ -8,8 +8,8 @@ kanban-plugin: basic
 
 - [ ] pc run state
 - [ ] pc momentum
-- [ ] camera slight follow lag
 - [ ] camera zoom levels
+- [ ] additional jumping and falling tweaks
 
 
 ## Need To Do
@@ -25,12 +25,13 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] improve pc jump
-- [ ] improve fall
+- [ ] camera slight follow lag
 
 
 ## Completed
 
+- [ ] improve pc jump
+- [ ] improve fall
 - [ ] fixing WASD input
 
 
