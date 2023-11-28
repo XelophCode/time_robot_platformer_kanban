@@ -25,7 +25,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] camera slight follow lag
 
 
 ## Completed
@@ -33,6 +32,7 @@ kanban-plugin: basic
 - [ ] improve pc jump
 - [ ] improve fall
 - [ ] fixing WASD input
+- [ ] camera slight follow lag
 
 
 
