@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] pc run state
 - [ ] pc momentum
+- [ ] camera slight follow lag
+- [ ] camera zoom levels
 
 
 ## Need To Do
