@@ -14,8 +14,6 @@ kanban-plugin: basic
 
 - [ ] add dive action
 - [ ] add wall jump
-- [ ] improve pc jump
-- [ ] improve fall
 - [ ] add pc side flip
 - [ ] add pc long jump
 - [ ] add pc interact
@@ -25,6 +23,8 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] improve pc jump
+- [ ] improve fall
 
 
 ## Completed
