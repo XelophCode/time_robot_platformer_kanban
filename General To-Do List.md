@@ -19,15 +19,16 @@ kanban-plugin: basic
 - [ ] add pc interact
 - [ ] implement some basic level geometry for testing
 - [ ] add time mechanics
+- [ ] improve dive action
 
 
 ## In Progress
 
-- [ ] add dive action
 
 
 ## Completed
 
+- [ ] add dive action
 - [ ] add wall kick
 - [ ] set player facing to last input dir
 - [ ] add jump offset to player cam
