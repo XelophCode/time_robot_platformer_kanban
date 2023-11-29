@@ -17,13 +17,14 @@ kanban-plugin: basic
 ## Need To Do
 
 - [ ] add pc interact
-- [ ] implement some basic level geometry for testing
-- [ ] add time mechanics
 - [ ] improve dive action
 
 
 ## In Progress
 
+- [ ] implement some basic level geometry for testing
+- [ ] add time mechanics
+- [ ] add debug tools
 
 
 ## Completed
