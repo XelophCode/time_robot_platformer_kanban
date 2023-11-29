@@ -23,6 +23,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] implement some basic level geometry for testing
+- [ ] improve wall kick off moving walls
 
 
 ## Completed
