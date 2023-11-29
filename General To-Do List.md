@@ -25,6 +25,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] add wall kick
+- [ ] set player facing to last input dir
 
 
 ## Completed
