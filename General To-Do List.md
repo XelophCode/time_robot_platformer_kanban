@@ -24,12 +24,12 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] add wall kick
-- [ ] set player facing to last input dir
 
 
 ## Completed
 
+- [ ] add wall kick
+- [ ] set player facing to last input dir
 - [ ] add jump offset to player cam
 - [ ] improve pc jump
 - [ ] improve fall
