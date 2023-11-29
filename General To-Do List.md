@@ -24,12 +24,12 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] add jump offset to player cam
 - [ ] add wall jump
 
 
 ## Completed
 
+- [ ] add jump offset to player cam
 - [ ] improve pc jump
 - [ ] improve fall
 - [ ] fixing WASD input
