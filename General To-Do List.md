@@ -23,13 +23,13 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] implement some basic level geometry for testing
-- [ ] add time mechanics
 - [ ] add debug tools
 
 
 ## Completed
 
 - [ ] add dive action
+- [ ] add time mechanics
 - [ ] add wall kick
 - [ ] set player facing to last input dir
 - [ ] add jump offset to player cam
