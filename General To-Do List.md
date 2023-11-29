@@ -24,7 +24,7 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] add wall jump
+- [ ] add wall kick
 
 
 ## Completed
@@ -34,6 +34,7 @@ kanban-plugin: basic
 - [ ] improve fall
 - [ ] fixing WASD input
 - [ ] camera slight follow lag
+- [ ] wall slide state added
 
 
 
