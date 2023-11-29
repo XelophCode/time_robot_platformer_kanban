@@ -23,11 +23,11 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] implement some basic level geometry for testing
-- [ ] add debug tools
 
 
 ## Completed
 
+- [ ] add debug tools
 - [ ] add dive action
 - [ ] add time mechanics
 - [ ] add wall kick
