@@ -11,13 +11,13 @@ kanban-plugin: basic
 - [ ] add pc long jump
 - [ ] pc momentum
 - [ ] camera zoom levels
-- [ ] additional jumping and falling tweaks
 
 
 ## Need To Do
 
 - [ ] add pc interact
 - [ ] improve dive action
+- [ ] additional jumping and falling tweaks
 
 
 ## In Progress
