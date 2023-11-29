@@ -7,6 +7,8 @@ kanban-plugin: basic
 ## Potential Features
 
 - [ ] pc run state
+- [ ] add pc side flip
+- [ ] add pc long jump
 - [ ] pc momentum
 - [ ] camera zoom levels
 - [ ] additional jumping and falling tweaks
@@ -14,9 +16,6 @@ kanban-plugin: basic
 
 ## Need To Do
 
-- [ ] add dive action
-- [ ] add pc side flip
-- [ ] add pc long jump
 - [ ] add pc interact
 - [ ] implement some basic level geometry for testing
 - [ ] add time mechanics
@@ -24,6 +23,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] add dive action
 
 
 ## Completed
