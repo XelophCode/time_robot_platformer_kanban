@@ -17,17 +17,18 @@ kanban-plugin: basic
 
 - [ ] add pc interact
 - [ ] improve dive action
+- [ ] improve wall kick off moving walls
 - [ ] additional jumping and falling tweaks
 
 
 ## In Progress
 
-- [ ] implement some basic level geometry for testing
-- [ ] improve wall kick off moving walls
+- [ ] create player character model
 
 
 ## Completed
 
+- [ ] implement some basic level geometry for testing
 - [ ] add debug tools
 - [ ] add dive action
 - [ ] add time mechanics
