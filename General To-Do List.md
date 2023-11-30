@@ -19,15 +19,17 @@ kanban-plugin: basic
 - [ ] improve dive action
 - [ ] improve wall kick off moving walls
 - [ ] additional jumping and falling tweaks
+- [ ] finish texturing character model
 
 
 ## In Progress
 
-- [ ] create player character model
+- [ ] animate character model
 
 
 ## Completed
 
+- [ ] create player character model
 - [ ] implement some basic level geometry for testing
 - [ ] add debug tools
 - [ ] add dive action
