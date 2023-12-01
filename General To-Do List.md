@@ -43,6 +43,8 @@ kanban-plugin: basic
 - [ ] fixing WASD input
 - [ ] camera slight follow lag
 - [ ] wall slide state added
+- [ ] blend idle <-> run animations
+- [ ] tie run anim speed to input
 
 
 
