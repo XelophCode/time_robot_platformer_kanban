@@ -25,6 +25,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] animate character model
+- [ ] make animation blends
 
 
 ## Completed
