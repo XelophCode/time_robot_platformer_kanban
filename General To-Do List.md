@@ -27,6 +27,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] improving camera feel
 
 
 ## Completed
