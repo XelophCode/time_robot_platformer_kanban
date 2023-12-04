@@ -27,11 +27,11 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] improving camera feel
 
 
 ## Completed
 
+- [ ] improving camera feel
 - [ ] animate character model
 - [ ] create player character model
 - [ ] make animation blends
