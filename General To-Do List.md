@@ -22,11 +22,11 @@ kanban-plugin: basic
 - [ ] finish texturing character model
 - [ ] make more character anims
 - [ ] improve previous anims
-- [ ] start designing main level
 
 
 ## In Progress
 
+- [ ] start designing main level
 
 
 ## Completed
