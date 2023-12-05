@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Potential Features
 
+- [ ] make more character anims
+- [ ] improve previous anims
 - [ ] pc run state
 - [ ] add pc side flip
 - [ ] add pc long jump
@@ -16,12 +18,8 @@ kanban-plugin: basic
 ## Need To Do
 
 - [ ] add pc interact
-- [ ] improve dive action
-- [ ] improve wall kick off moving walls
-- [ ] additional jumping and falling tweaks
 - [ ] finish texturing character model
-- [ ] make more character anims
-- [ ] improve previous anims
+- [ ] align discrepancies between framerates.
 
 
 ## In Progress
@@ -33,6 +31,8 @@ kanban-plugin: basic
 
 - [ ] improving camera feel
 - [ ] animate character model
+- [ ] improve dive action
+- [ ] improve wall kick off moving walls
 - [ ] create player character model
 - [ ] make animation blends
 - [ ] implement some basic level geometry for testing
