@@ -17,18 +17,19 @@ kanban-plugin: basic
 
 ## Need To Do
 
-- [ ] add pc interact
 - [ ] finish texturing character model
-- [ ] align discrepancies between framerates.
 
 
 ## In Progress
 
-- [ ] start designing main level
+- [ ] add pc interact
+- [ ] set up audio
 
 
 ## Completed
 
+- [ ] start designing main level
+- [ ] align discrepancies between framerates.
 - [ ] improving camera feel
 - [ ] animate character model
 - [ ] improve dive action
